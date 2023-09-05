@@ -50,7 +50,7 @@ body{
     font-size: 17px;
   }
   #navbar a:hover {
-    background-color: green;
+    background-color: #aaa6ad;
     color: black;
   }
   #navbar a.active {
