@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body{
-    background-color: gray;
+    background-color: white;
     color: black;
     font-family: "Times New Roman", Times, serif;
     padding-left: 20px;
@@ -10,16 +10,16 @@ body{
     color: black;
   }
   h2{
-    color: orange;
+    color: black;
   }
   h3{
-    color: yellow;
+    color: black;
   }
   h4{
-    color: green;
+    color: black;
   }
   h5{
-    color: blue;
+    color: black;
   }
   a:link{
     color: blue;
