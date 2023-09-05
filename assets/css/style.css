@@ -32,13 +32,13 @@ body{
     text-decoration: none;
   }
   .header {
-  background-color: #f1f1f1;
+  background-color: #871f1f;
   padding: 30px;
   text-align: center;
   }
   #navbar {
     overflow: hidden;
-    background-color: #333;
+    background-color: #ad66cc;
   }
   #navbar a {
     float: left;
