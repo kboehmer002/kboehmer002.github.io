@@ -38,7 +38,7 @@ body{
   }
   #navbar {
     overflow: hidden;
-    background-color: #86808a;
+    background-color: #aaa6ad;
   }
   #navbar a {
     float: left;
@@ -50,8 +50,8 @@ body{
     font-size: 17px;
   }
   #navbar a:hover {
-    background-color: #aaa6ad;
-    color: black;
+    background-color: #86808a#;
+    color: #aaa6ad;
   }
   #navbar a.active {
     background-color: #38075c;
