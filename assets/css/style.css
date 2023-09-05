@@ -51,7 +51,7 @@ body{
   }
   #navbar a:hover {
     background-color: #86808a#;
-    color: #aaa6ad;
+    color: black;
   }
   #navbar a.active {
     background-color: #38075c;
