@@ -32,28 +32,28 @@ body{
     text-decoration: none;
   }
   .header {
-  background-color: #871f1f;
+  background-color: red;
   padding: 30px;
   text-align: center;
   }
   #navbar {
     overflow: hidden;
-    background-color: #ad66cc;
+    background-color: orange;
   }
   #navbar a {
     float: left;
     display: block;
-    color: #ad66cc;
+    color: yellow;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
   }
   #navbar a:hover {
-    background-color: #ddd;
+    background-color: green;
     color: black;
   }
   #navbar a.active {
-    background-color: #290838;
+    background-color: blue;
     color: white;
   }
